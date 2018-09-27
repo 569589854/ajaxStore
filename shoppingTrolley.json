@@ -1,0 +1,38 @@
+[
+    {
+       "goodName":"小米8青春版",
+       "imgUrl":"img/xiaomi/xiaomi8young.jpg" ,
+       "price":"￥1699.00"   
+    },
+    {
+       "goodName":"iphone6s plus",
+       "imgUrl":"img/iphone/iphone6splus.jpg" ,
+       "price":"￥2859.00"   
+    },
+    {
+       "goodName":"iphone7",
+       "imgUrl":"img/iphone/iphone7.jpg" ,
+       "price":"￥3829.00"   
+    },
+    {
+       "goodName":"iphoneXS",
+       "imgUrl":"img/iphone/iphonexs.jpg" ,
+       "price":"￥8699.00"   
+    },
+    {
+       "goodName":"Galaxy S9 Plus",
+       "imgUrl":"img/sanxing/galaxyS9plus.jpg" ,
+       "price":"￥6099.00"   
+    },
+    {
+       "goodName":"Galaxy S8 Plus",
+       "imgUrl":"img/sanxing/galaxyS8plus.jpg" ,
+       "price":"￥4299.00"   
+    },
+    {
+       "goodName":"华为手机P20 (EML-AL00)",
+       "imgUrl":"img/huawei/p20.jpg" ,
+       "price":"￥3388.00"   
+    }
+
+]
